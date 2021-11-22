@@ -1,7 +1,7 @@
 The codes found here were used in the paper:
 "A GREAT model comparison against the cosmological constant"
 
-by Ruben Arjona, Llorenc Espinosa-Portales,Juan Garcia-Bellido and Savvas Nesseris
+by Ruben Arjona, Llorenc Espinosa-Portales, Juan Garcia-Bellido and Savvas Nesseris
 
 arXiv: 2111.xxxxxx
 
